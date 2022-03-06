@@ -1,3 +1,6 @@
+[![Nightly Tests](https://github.com/skfedcoe/enlight-web/actions/workflows/schedule-nightly-tests.yml/badge.svg)](https://github.com/skfedcoe/enlight-web/actions/workflows/schedule-nightly-tests.yml)
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/MunchyYDL/gh-pages/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
